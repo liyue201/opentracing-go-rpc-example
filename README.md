@@ -14,7 +14,7 @@ go run main.go
 
 run client
 ```
-cd cliet 
+cd client 
 go run main.go
 ```
 
