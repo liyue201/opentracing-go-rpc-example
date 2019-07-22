@@ -139,6 +139,18 @@
 			"path": "github.com/rcrowley/go-metrics",
 			"revision": "3113b8401b8a98917cde58f8bbd42a1b1c03b1fd",
 			"revisionTime": "2018-10-16T18:43:25Z"
+		},
+		{
+			"checksumSHA1": "f3Y7JIZH61oMmp8nphqe8Mg+XoU=",
+			"path": "golang.org/x/net/internal/socks",
+			"revision": "1da14a5a36f220ea3f03470682b737b1dfd5de22",
+			"revisionTime": "2019-02-11T22:33:38Z"
+		},
+		{
+			"checksumSHA1": "mCMW3hvbWFW1k5il9yyO7ELOdws=",
+			"path": "golang.org/x/net/proxy",
+			"revision": "1da14a5a36f220ea3f03470682b737b1dfd5de22",
+			"revisionTime": "2019-02-11T22:33:38Z"
 		}
 	],
 	"rootPath": "github.com/liyue201/opentracing-go-rpc-example"
